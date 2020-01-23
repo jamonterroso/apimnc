@@ -1,0 +1,5 @@
+demo\mnc\SpringBootDemoApplication.class
+demo\mnc\model\ResultadosBusqueda.class
+demo\mnc\service\BusquedaServicio.class
+demo\mnc\controller\BusquedaController.class
+demo\mnc\service\BusquedaImp.class
